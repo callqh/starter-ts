@@ -6,5 +6,5 @@
 
 ## 使用方法
 
-1. 安装`degit`。`degit liuqh0609/starter-ts [新文件名]`
+1. 安装[`degit`](https://github.com/Rich-Harris/degit)。`degit liuqh0609/starter-ts [新文件名]`
 2. 安装依赖推荐使用`ni`
