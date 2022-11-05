@@ -2,14 +2,9 @@
 
 [![NPM version](https://img.shields.io/npm/v/pkg-name?color=a1b858&label=)](https://www.npmjs.com/package/pkg-name)
 
-## Sponsors
+`@antfu`的快速开发`ts-pacakge`的模版
 
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg'/>
-  </a>
-</p>
+## 使用方法
 
-## License
-
-[MIT](./LICENSE) License © 2022 [Anthony Fu](https://github.com/antfu)
+1. 安装`degit`。`degit liuqh0609/starter-ts [新文件名]`
+2. 安装依赖推荐使用`ni`
