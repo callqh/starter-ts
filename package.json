@@ -6,12 +6,12 @@
   "description": "",
   "author": "Liuqh <528851597@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/liuqh0609/pkg-name#readme",
+  "homepage": "https://github.com/callqh/pkg-name#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuqh0609/pkg-name.git"
+    "url": "git+https://github.com/callqh/pkg-name.git"
   },
-  "bugs": "https://github.com/liuqh0609/pkg-name/issues",
+  "bugs": "https://github.com/callqh/pkg-name/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
